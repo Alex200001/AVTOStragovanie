@@ -1,3 +1,4 @@
 aiogram==2.25.1
-geopy
-fpdf
+fpdf==1.7.2
+aiohttp==3.8.3
+
