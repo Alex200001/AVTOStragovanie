@@ -1,4 +1,4 @@
-aiohttp==3.9.5
+aiohttp==3.8.5
 geopy==2.3.0
 fpdf==1.7.2
 aiogram==2.25.1
