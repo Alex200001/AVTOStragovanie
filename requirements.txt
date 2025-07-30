@@ -1,5 +1,4 @@
-iohttp==3.8.5
-aiohttp_cors==0.7.0
+aiohttp
+aiohttp_cors
 geopy==2.3.0
 fpdf==1.7.2
-
