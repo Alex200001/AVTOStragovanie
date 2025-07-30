@@ -2,3 +2,4 @@ aiohttp
 aiohttp_cors
 geopy==2.3.0
 fpdf==1.7.2
+aiogram==2.25.1
