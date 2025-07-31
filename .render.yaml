@@ -1,3 +1,6 @@
 build:
   pythonVersion: 3.8.5
   buildCommand: "pip install -r requirements.txt"
+  environment:
+    RENDER_PYTHON_VERSION: 3.8.5
+
